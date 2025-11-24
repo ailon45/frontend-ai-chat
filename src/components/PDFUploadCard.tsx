@@ -88,7 +88,7 @@ export function PDFUploadCard({ onUpload }: PDFUploadCardProps) {
           </label>
 
           <p className="text-xs text-slate-500 dark:text-slate-400 mt-2">
-            Supports PDF files up to 30MB
+            Supports PDF files up to 4.5MB
           </p>
         </motion.div>
       </div>
